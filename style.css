@@ -55,7 +55,7 @@ li{
 }
 
 .checked {
-    text-decoration: underline;
+    text-decoration: line-through;
 }
 
 .addButton{
